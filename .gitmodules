@@ -1,9 +1,9 @@
 [submodule "Lab 01/AER-E-344-Pre-Lab-01"]
-	path = Lab 01/AER-E-344-Pre-Lab-01
+	path = Lab-01/AER-E-344-Pre-Lab-01
 	url = git@github.com:mcmehrtens/AER-E-344-Pre-Lab-01.git
 [submodule "Lab 02/AER-E-344-Pre-Lab-02"]
-	path = Lab 02/AER-E-344-Pre-Lab-02
+	path = Lab-02/AER-E-344-Pre-Lab-02
 	url = git@github.com:mcmehrtens/AER-E-344-Pre-Lab-02.git
 [submodule "Lab 02/AER-E-344-Lab-02"]
-	path = Lab 02/AER-E-344-Lab-02
+	path = Lab-02/AER-E-344-Lab-02
 	url = git@github.com:mcmehrtens/AER-E-344-Lab-02.git

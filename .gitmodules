@@ -13,3 +13,9 @@
 [submodule "Lab-03/AER-E-344-Lab-03"]
 	path = Lab-03/AER-E-344-Lab-03
 	url = git@github.com:mcmehrtens/AER-E-344-Lab-03.git
+[submodule "Lab-04/AER-E-344-Pre-Lab-04"]
+	path = Lab-04/AER-E-344-Pre-Lab-04
+	url = git@github.com:mcmehrtens/AER-E-344-Pre-Lab-04.git
+[submodule "Lab-04/AER-E-344-Lab-04"]
+	path = Lab-04/AER-E-344-Lab-04
+	url = git@github.com:mcmehrtens/AER-E-344-Lab-04.git

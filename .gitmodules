@@ -25,3 +25,9 @@
 [submodule "lab4-report"]
 	path = Lab-04/AER-E-344-Lab-04
 	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Lab-04.git
+[submodule "Lab-06/AER-E-344-Pre-Lab-06"]
+	path = Lab-06/AER-E-344-Pre-Lab-06
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Pre-Lab-06.git
+[submodule "Lab-06/AER-E-344-Lab-06"]
+	path = Lab-06/AER-E-344-Lab-06
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Lab-06.git

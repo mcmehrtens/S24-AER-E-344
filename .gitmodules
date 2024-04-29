@@ -43,3 +43,27 @@
 [submodule "Lab-08/AER-E-344-Lab-08"]
 	path = Lab-08/AER-E-344-Lab-08
 	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Lab-08.git
+[submodule "Lab-09/AER-E-344-Pre-Lab-09"]
+	path = Lab-09/AER-E-344-Pre-Lab-09
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Pre-Lab-09.git
+[submodule "Lab-10/AER-E-344-Pre-Lab-10"]
+	path = Lab-10/AER-E-344-Pre-Lab-10
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Pre-Lab-10.git
+[submodule "Lab-10/AER-E-344-Lab-10"]
+	path = Lab-10/AER-E-344-Lab-10
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Lab-10.git
+[submodule "Lab-11/AER-E-344-Pre-Lab-11"]
+	path = Lab-11/AER-E-344-Pre-Lab-11
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Pre-Lab-11.git
+[submodule "Lab-11/AER-E-344-Lab-11"]
+	path = Lab-11/AER-E-344-Lab-11
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Lab-11.git
+[submodule "Lab-12/AER-E-344-Pre-Lab-12"]
+	path = Lab-12/AER-E-344-Pre-Lab-12
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Pre-Lab-12.git
+[submodule "Lab-12/AER-E-344-Lab-12"]
+	path = Lab-12/AER-E-344-Lab-12
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Lab-12.git
+[submodule "Lab-13/AER-E-344-Pre-Lab-13"]
+	path = Lab-13/AER-E-344-Pre-Lab-13
+	url = git@github.com:AER-E-344-S3-G3/AER-E-344-Pre-Lab-13.git
